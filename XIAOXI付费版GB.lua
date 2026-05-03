@@ -94,7 +94,7 @@ local Window = WindUI:CreateWindow({
     UserEnabled = true,
     SideBarWidth = 135,
     HasOutline = true,
-    Background = "https://raw.githubusercontent.com/xiaoxi9008/chesksks/refs/heads/main/image_download_1776648555077.jpg",
+    Background = "https://raw.githubusercontent.com/xiaoxi9008/Mysterious-coral./refs/heads/main/1777784268833.jpeg",
 })
 
 Window:EditOpenButton({
